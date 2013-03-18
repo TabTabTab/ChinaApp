@@ -9,3 +9,8 @@ enkel pinyininmatning, med toner
 Flashcards
 Question
 Conversations
+
+
+Links for SignInput
+-http://hktv.cc/cd/hanyupinyin/features.html#mobile
+-http://www.chinese-tools.com/tools/ime.html
